@@ -1,0 +1,12 @@
+#gamesWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+
+
